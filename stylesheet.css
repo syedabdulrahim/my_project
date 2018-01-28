@@ -1,0 +1,24 @@
+div{
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+	width: 60px;
+	height: 60px;
+	background-color: green;
+	margin: 60px;
+   
+    text-align: center;
+    color: black;
+}
+
+#P2
+{
+        background-color: red;
+       text-align: center;
+    color: black;
+}
+
+#spaces
+{
+  font-family: 'Signika', sans-serif;  
+    
+}
